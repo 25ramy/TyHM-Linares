@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
 
-Técnicas y Herramientas Modernas Linares Ramiro
+## Técnicas y Herramientas Modernas Linares Ramiro
 
 En este repositorio se presentan tareas realizadas para la cátedra Técnicas y Herramientas Modernas
 Se realizaron las siguientes tareas:
