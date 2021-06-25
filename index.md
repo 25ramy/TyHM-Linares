@@ -16,10 +16,7 @@ Se realizaron las siguientes tareas:
 
 [CV](https://github.com/25ramy/TyHM-Linares/blob/main/web/CV%20Linares%20Ramiro/CV_RamiroLinares.pdf)
 
-<a href="https://github.com/25ramy/TyHM-Linares/blob/main/web/CV%20Linares%20Ramiro/CV_RamiroLinares.pdf" target="_blank">CV Linares</a>
 
 ## Transición Energética
 
 [Traducción](https://github.com/25ramy/TyHM-Linares/blob/main/web/Traduccion%20Capitulo%20Linares%20Ramiro/Tecnicas_y_Herramientas_Modernas___Transici_n_Energ_tica_Linares_Ramiro.pdf)
-
-<a href="https://github.com/25ramy/TyHM-Linares/blob/main/web/Traduccion%20Capitulo%20Linares%20Ramiro/Tecnicas_y_Herramientas_Modernas___Transici_n_Energ_tica_Linares_Ramiro.pdf" target="_blank">Capitulo Traducido Linares</a>
