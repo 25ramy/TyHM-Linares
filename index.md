@@ -1,37 +1,23 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/25ramy/TyHM-Linares/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Técnicas y Herramientas Modernas Linares Ramiro
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En este repositorio se presentan tareas realizadas para la cátedra Técnicas y Herramientas Modernas
+Se realizaron las siguientes tareas:
 
-### Markdown
+    CV realizado con Latex (Overleaf.com)
+    Traducción de un libro de inglés a español, para testear las herramientas de detección de plagio 
+    y el dictado por voz en Docs de Google Drive, además del trabajo colaborativo 
+    sobre un mismo documento, realizado en Latex (Overleaf.com).
+    Se subieron los elementos a github y asi mostrarlos como página web
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Curriculum Vitae realizado con Latex
 
-- Bulleted
-- List
+[CV](https://github.com/25ramy/TyHM-Linares/blob/main/web/CV%20Linares%20Ramiro/CV_RamiroLinares.pdf)
 
-1. Numbered
-2. List
+## Transición Energética
 
-**Bold** and _Italic_ and `Code` text
+[Traducción](https://github.com/25ramy/TyHM-Linares/blob/main/web/Traduccion%20Capitulo%20Linares%20Ramiro/Tecnicas_y_Herramientas_Modernas___Transici_n_Energ_tica_Linares_Ramiro.pdf)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/25ramy/TyHM-Linares/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
